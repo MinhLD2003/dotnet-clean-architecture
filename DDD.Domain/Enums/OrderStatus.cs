@@ -8,7 +8,7 @@ namespace DDD.Domain.Enums
 {
     public enum OrderStatus
     {
-        Pending = 1,
+        Pending = 1,    
         Confirmed = 2,
         Processing = 3,
         Shipped = 4,
